@@ -16,3 +16,14 @@ background-color: blueviolet;
     border-radius: 50%;
     padding: 20px;
 }
+
+.cabecalho-menu-listaintem{
+    display: inline;
+    text-transform: uppercase;
+    margin: 30px;
+}
+
+.sobre{
+    display: flex;
+    
+}
