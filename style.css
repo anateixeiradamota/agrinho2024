@@ -26,5 +26,5 @@ background-color: blueviolet;
 .sobre{
     display: flex;
     justify-content: center;
-    
+    align-items: center;
 }
