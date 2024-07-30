@@ -1,4 +1,4 @@
-body{ background-color: rgb(183, 176, 176);/*coloca uma cor de fundo*/ } 
+body{ background-color: rgb(46, 99, 66);/*coloca uma cor de fundo*/ } 
 
 .cabecalho{ display: flex;/*muda a disposição do elementos para horizontal*/ align-items: center; justify-content: space-between; } 
 
